@@ -1,0 +1,2 @@
+- 👋 Hola, Soy @Mompart y actualmente estoy estudiando programación en el campus 42 Barcelona. 
+- Mi intención es crear una serie de repositorios con los proyectos que vaya realizando por si en un futuro puedan servirme para algo.
